@@ -3,7 +3,7 @@
 
 # Parts of this script are either directly copied or modified from
 # Google Gmail API example codes available at
-# https://developers.google.com/gmail/api/v1/reference
+# https://developers.google.com/gmail/api
 
 
 from __future__ import print_function
